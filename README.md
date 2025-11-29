@@ -1,5 +1,15 @@
 # Examen - Grade Calculator (Python backend)
 
+
+
+## Resultados de calidad y análisis SonarQube
+
+### Calidad requerida
+![Calidad requerida](quality.png)
+
+### Resultado del alumno en SonarQube
+![Resultado SonarQube](sonnar.png)
+
 Proyecto simple con arquitectura orientada a objetos para el cálculo de notas.
 
 Características principales
