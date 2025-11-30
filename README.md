@@ -1,14 +1,12 @@
 # Examen - Grade Calculator (Python backend)
 
-
-
 ## Resultados de calidad y análisis SonarQube
 
-### Calidad requerida
-![Calidad requerida](quality.png)
+### Rquerido
+![Calidad requerida](sonnar.png)
 
 ### Resultado del alumno en SonarQube
-![Resultado SonarQube](sonnar.png)
+![Resultado SonarQube](quality.png)
 
 Proyecto simple con arquitectura orientada a objetos para el cálculo de notas.
 
@@ -44,3 +42,4 @@ O ejecutar el CLI:
 ```powershell
 python grade_calculator.py
 ```
+
